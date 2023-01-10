@@ -1,6 +1,6 @@
 {
   "name": "react-native-icon-flaticon",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "test",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -157,6 +157,7 @@
     ]
   },
   "dependencies": {
+    "prepack": "^0.2.54",
     "react-native-svg": "^13.7.0"
   }
 }
