@@ -9,14 +9,8 @@ npm install react-native-icon-flaticon
 ```
 
 ## Usage
+Under Developement
 
-```js
-import { multiply } from 'react-native-icon-flaticon';
-
-// ...
-
-const result = await multiply(3, 7);
-```
 
 ## Contributing
 
