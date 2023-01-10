@@ -574,7 +574,6 @@ export const FiBrAppsAddSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -598,7 +597,6 @@ export const FiBrAppsDeleteSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -622,7 +620,6 @@ export const FiBrAppsSortSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -645,7 +642,6 @@ export const FiBrAppsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -669,7 +665,6 @@ export const FiBrArchiveSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -1901,7 +1896,6 @@ export const FiBrBanSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -2498,7 +2492,6 @@ export const FiBrBoxSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -2625,7 +2618,6 @@ export const FiBrBroomSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.147 512.147"
-      style="enable-background:new 0 0 512.147 512.147;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3696,7 +3688,6 @@ export const FiBrChartPyramidSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3782,7 +3773,6 @@ export const FiBrCheckSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 507.506 507.506"
-      style="enable-background:new 0 0 507.506 507.506;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3803,7 +3793,6 @@ export const FiBrCheckboxSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -4201,7 +4190,6 @@ export const FiBrClipSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 508.107 508.107"
-      style="enable-background:new 0 0 508.107 508.107;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -5507,7 +5495,6 @@ export const FiBrCookieSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -5557,7 +5544,6 @@ export const FiBrCopyrightSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -5672,7 +5658,6 @@ export const FiBrCrossCircleSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -5708,7 +5693,6 @@ export const FiBrCrossSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.021 512.021"
-      style="enable-background:new 0 0 512.021 512.021;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -5769,7 +5753,6 @@ export const FiBrCupcakeSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6219,7 +6202,6 @@ export const FiBrDiskSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6350,7 +6332,6 @@ export const FiBrDownloadSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6424,7 +6405,6 @@ export const FiBrDuplicateSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6583,7 +6563,6 @@ export const FiBrEnterSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6780,7 +6759,6 @@ export const FiBrExclamationSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6803,7 +6781,6 @@ export const FiBrExitSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6870,7 +6847,6 @@ export const FiBrEyeCrossedSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 509.319 509.319"
-      style="enable-background:new 0 0 509.319 509.319;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6904,7 +6880,6 @@ export const FiBrEyeSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 509.348 509.348"
-      style="enable-background:new 0 0 509.348 509.348;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7017,7 +6992,6 @@ export const FiBrFileAiSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7078,7 +7052,6 @@ export const FiBrFileEpsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7126,7 +7099,6 @@ export const FiBrFilePsdSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7175,7 +7147,6 @@ export const FiBrFileSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7368,7 +7339,6 @@ export const FiBrFlowerBouquetSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7517,7 +7487,6 @@ export const FiBrFolderSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7551,7 +7520,6 @@ export const FiBrFollowingSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.063 512.063"
-      style="enable-background:new 0 0 512.063 512.063;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7718,7 +7686,6 @@ export const FiBrGamepadSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 24 24"
-      style="enable-background:new 0 0 24 24;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -8020,7 +7987,6 @@ export const FiBrGraduationCapSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -8079,7 +8045,6 @@ export const FiBrGridSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -8399,7 +8364,6 @@ export const FiBrHandSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -8668,7 +8632,6 @@ export const FiBrHomeSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.001 512.001"
-      style="enable-background:new 0 0 512.001 512.001;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -8865,7 +8828,6 @@ export const FiBrInboxSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -8948,7 +8910,6 @@ export const FiBrInteractiveSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.34 512.34"
-      style="enable-background:new 0 0 512.34 512.34;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9354,7 +9315,6 @@ export const FiBrLayoutFluidSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9593,7 +9553,6 @@ export const FiBrLinkSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 511.904 511.904"
-      style="enable-background:new 0 0 511.904 511.904;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9713,7 +9672,6 @@ export const FiBrLockSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 508.779 508.779"
-      style="enable-background:new 0 0 508.779 508.779;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9826,7 +9784,6 @@ export const FiBrMaleSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -10044,7 +10001,6 @@ export const FiBrMenuBurgerSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -10067,7 +10023,6 @@ export const FiBrMenuDotsVerticalSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -10090,7 +10045,6 @@ export const FiBrMenuDotsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -10194,7 +10148,6 @@ export const FiBrMinusSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -10396,7 +10349,6 @@ export const FiBrMotorcycleSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -10443,7 +10395,6 @@ export const FiBrMugAltSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -10723,7 +10674,6 @@ export const FiBrOpacitySvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -10853,7 +10803,6 @@ export const FiBrPaperPlaneSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.074 512.074"
-      style="enable-background:new 0 0 512.074 512.074;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -11337,7 +11286,6 @@ export const FiBrPlusSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -11464,7 +11412,6 @@ export const FiBrPowerSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.292 512.292"
-      style="enable-background:new 0 0 512.292 512.292;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -11890,7 +11837,6 @@ export const FiBrRefreshSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 513.806 513.806"
-      style="enable-background:new 0 0 513.806 513.806;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12113,7 +12059,6 @@ export const FiBrRotateRightSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 511.494 511.494"
-      style="enable-background:new 0 0 511.494 511.494;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12499,7 +12444,6 @@ export const FiBrSearchHeartSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12532,7 +12476,6 @@ export const FiBrSearchSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 513.749 513.749"
-      style="enable-background:new 0 0 513.749 513.749;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12618,7 +12561,6 @@ export const FiBrSettingsSlidersSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12641,7 +12583,6 @@ export const FiBrSettingsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12663,7 +12604,6 @@ export const FiBrShareSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.012 512.012"
-      style="enable-background:new 0 0 512.012 512.012;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -13251,7 +13191,6 @@ export const FiBrSnowflakeSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -13322,7 +13261,6 @@ export const FiBrSocialNetworkSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -13617,7 +13555,6 @@ export const FiBrSpinnerSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.001 512.001"
-      style="enable-background:new 0 0 512.001 512.001;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -14710,7 +14647,6 @@ export const FiBrTimeForwardSixtySvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -15064,7 +15000,6 @@ export const FiBrTrashSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -15390,7 +15325,6 @@ export const FiBrUndoSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -15409,7 +15343,6 @@ export const FiBrUnlockSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.033 512.033"
-      style="enable-background:new 0 0 512.033 512.033;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -15431,7 +15364,6 @@ export const FiBrUploadSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.022 512.022"
-      style="enable-background:new 0 0 512.022 512.022;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -15493,7 +15425,6 @@ export const FiBrUserAddSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.016 512.016"
-      style="enable-background:new 0 0 512.016 512.016;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -15531,7 +15462,6 @@ export const FiBrUserSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -16067,7 +15997,6 @@ export const FiBrZoomInSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -16087,7 +16016,6 @@ export const FiBrZoomOutSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}

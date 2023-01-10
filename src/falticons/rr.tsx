@@ -1970,7 +1970,6 @@ export const FiRrBasketballSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3229,7 +3228,6 @@ export const FiRrCaravanAltSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3248,7 +3246,6 @@ export const FiRrCaravanSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3636,7 +3633,6 @@ export const FiRrChartSetTheorySvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6810,7 +6806,6 @@ export const FiRrFileEpsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6858,7 +6853,6 @@ export const FiRrFilePsdSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7064,7 +7058,6 @@ export const FiRrFlameSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7271,7 +7264,6 @@ export const FiRrFootballSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7437,7 +7429,6 @@ export const FiRrGamepadSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7726,7 +7717,6 @@ export const FiRrGraduationCapSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -8148,7 +8138,6 @@ export const FiRrHatBirthdaySvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9340,7 +9329,6 @@ export const FiRrLocationAltSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9478,7 +9466,6 @@ export const FiRrMapMarkerCrossSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9510,7 +9497,6 @@ export const FiRrMapMarkerMinusSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9529,7 +9515,6 @@ export const FiRrMapMarkerPlusSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9615,7 +9600,6 @@ export const FiRrMarsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -10249,7 +10233,6 @@ export const FiRrNetworkCloudSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12125,7 +12108,6 @@ export const FiRrSearchHeartSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12901,7 +12883,6 @@ export const FiRrSnowflakesSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12933,7 +12914,6 @@ export const FiRrSnowplowSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -13175,7 +13155,6 @@ export const FiRrSpaceShuttleSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -14041,7 +14020,6 @@ export const FiRrTemperatureFrigidSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -14629,7 +14607,6 @@ export const FiRrTrailerSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -14878,7 +14855,6 @@ export const FiRrTruckPlowSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -15320,7 +15296,6 @@ export const FiRrVideoCameraSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -15378,7 +15353,6 @@ export const FiRrVolleyballSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}

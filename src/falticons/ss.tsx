@@ -2240,7 +2240,6 @@ export const FiSsBookSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3527,7 +3526,6 @@ export const FiSsChartNetworkSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3546,7 +3544,6 @@ export const FiSsChartPieAltSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3611,7 +3608,6 @@ export const FiSsChartSetTheorySvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -4719,7 +4715,6 @@ export const FiSsCloudsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6798,7 +6793,6 @@ export const FiSsFilePsdSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7361,7 +7355,6 @@ export const FiSsGamepadSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 24 24"
-      style="enable-background:new 0 0 24 24;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7820,7 +7813,6 @@ export const FiSsGrinSquintTearsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7904,7 +7896,6 @@ export const FiSsGrinTongueSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9490,7 +9481,6 @@ export const FiSsMarsDoubleSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9509,7 +9499,6 @@ export const FiSsMarsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -11958,7 +11947,6 @@ export const FiSsSearchHeartSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12340,7 +12328,6 @@ export const FiSsShuffleSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}

@@ -565,7 +565,6 @@ export const FiSrAppsAddSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -589,7 +588,6 @@ export const FiSrAppsDeleteSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -613,7 +611,6 @@ export const FiSrAppsSortSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.029 512.029"
-      style="enable-background:new 0 0 512.029 512.029;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -636,7 +633,6 @@ export const FiSrAppsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -660,7 +656,6 @@ export const FiSrArchiveSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -1866,7 +1861,6 @@ export const FiSrBanSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -2485,7 +2479,6 @@ export const FiSrBoxSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.103 512.103"
-      style="enable-background:new 0 0 512.103 512.103;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -2613,7 +2606,6 @@ export const FiSrBroomSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 500.696 500.696"
-      style="enable-background:new 0 0 500.696 500.696;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3002,7 +2994,6 @@ export const FiSrCallMissedSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3639,7 +3630,6 @@ export const FiSrChartNetworkSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3658,7 +3648,6 @@ export const FiSrChartPieAltSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3721,7 +3710,6 @@ export const FiSrChartSetTheorySvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3790,7 +3778,6 @@ export const FiSrCheckSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 465.822 465.822"
-      style="enable-background:new 0 0 465.822 465.822;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -3811,7 +3798,6 @@ export const FiSrCheckboxSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -4208,7 +4194,6 @@ export const FiSrClipSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 511.201 511.201"
-      style="enable-background:new 0 0 511.201 511.201;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -5341,7 +5326,6 @@ export const FiSrCommentUserSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -5516,7 +5500,6 @@ export const FiSrCookieSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -5565,7 +5548,6 @@ export const FiSrCopyrightSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -5666,7 +5648,6 @@ export const FiSrCrossCircleSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -5701,7 +5682,6 @@ export const FiSrCrossSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 511.991 511.991"
-      style="enable-background:new 0 0 511.991 511.991;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6197,7 +6177,6 @@ export const FiSrDiskSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6325,7 +6304,6 @@ export const FiSrDownloadSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6399,7 +6377,6 @@ export const FiSrDuplicateSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6491,7 +6468,6 @@ export const FiSrEditAltSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6570,7 +6546,6 @@ export const FiSrEnterSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6781,7 +6756,6 @@ export const FiSrExclamationSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6802,7 +6776,6 @@ export const FiSrExitSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6869,7 +6842,6 @@ export const FiSrEyeCrossedSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.19 512.19"
-      style="enable-background:new 0 0 512.19 512.19;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6890,7 +6862,6 @@ export const FiSrEyeSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.19 512.19"
-      style="enable-background:new 0 0 512.19 512.19;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -6964,7 +6935,6 @@ export const FiSrFileAiSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7026,7 +6996,6 @@ export const FiSrFileEpsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.001 512.001"
-      style="enable-background:new 0 0 512.001 512.001;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7075,7 +7044,6 @@ export const FiSrFilePsdSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.001 512.001"
-      style="enable-background:new 0 0 512.001 512.001;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7125,7 +7093,6 @@ export const FiSrFileSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7437,7 +7404,6 @@ export const FiSrFolderSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7472,7 +7438,6 @@ export const FiSrFollowingSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.047 512.047"
-      style="enable-background:new 0 0 512.047 512.047;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -7665,7 +7630,6 @@ export const FiSrGamepadSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -8027,7 +7991,6 @@ export const FiSrGridSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -8225,7 +8188,6 @@ export const FiSrGrinWinkSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -8599,7 +8561,6 @@ export const FiSrHomeSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -8784,7 +8745,6 @@ export const FiSrInboxSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -8865,7 +8825,6 @@ export const FiSrInteractiveSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 511.738 511.738"
-      style="enable-background:new 0 0 511.738 511.738;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9051,7 +9010,6 @@ export const FiSrKissWinkHeartSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9190,7 +9148,6 @@ export const FiSrLaughSquintSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9277,7 +9234,6 @@ export const FiSrLayoutFluidSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9519,7 +9475,6 @@ export const FiSrLinkSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.06 512.06"
-      style="enable-background:new 0 0 512.06 512.06;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9639,7 +9594,6 @@ export const FiSrLockSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9738,7 +9692,6 @@ export const FiSrMapMarkerCrossSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9757,7 +9710,6 @@ export const FiSrMapMarkerHomeSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9776,7 +9728,6 @@ export const FiSrMapMarkerMinusSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9795,7 +9746,6 @@ export const FiSrMapMarkerPlusSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9881,7 +9831,6 @@ export const FiSrMarsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -9991,7 +9940,6 @@ export const FiSrMenuBurgerSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 490.667 490.667"
-      style="enable-background:new 0 0 490.667 490.667;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -10014,7 +9962,6 @@ export const FiSrMenuDotsVerticalSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -10037,7 +9984,6 @@ export const FiSrMenuDotsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -10141,7 +10087,6 @@ export const FiSrMinusSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -10779,7 +10724,6 @@ export const FiSrPaperPlaneSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.308 512.308"
-      style="enable-background:new 0 0 512.308 512.308;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -11266,7 +11210,6 @@ export const FiSrPlusSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -11381,7 +11324,6 @@ export const FiSrPowerSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.301 512.301"
-      style="enable-background:new 0 0 512.301 512.301;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -11809,7 +11751,6 @@ export const FiSrRefreshSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.016 512.016"
-      style="enable-background:new 0 0 512.016 512.016;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -11977,7 +11918,6 @@ export const FiSrRocketLunchSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12035,7 +11975,6 @@ export const FiSrRotateRightSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12421,7 +12360,6 @@ export const FiSrSearchHeartSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12453,7 +12391,6 @@ export const FiSrSearchSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 511.786 511.786"
-      style="enable-background:new 0 0 511.786 511.786;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12552,7 +12489,6 @@ export const FiSrSettingsSlidersSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.051 512.051"
-      style="enable-background:new 0 0 512.051 512.051;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12575,7 +12511,6 @@ export const FiSrSettingsSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -12596,7 +12531,6 @@ export const FiSrShareSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.629 512.629"
-      style="enable-background:new 0 0 512.629 512.629;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -13122,7 +13056,6 @@ export const FiSrSmileBeamSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -13549,7 +13482,6 @@ export const FiSrSpinnerSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.056 512.056"
-      style="enable-background:new 0 0 512.056 512.056;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -13771,7 +13703,6 @@ export const FiSrStopSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -15003,7 +14934,6 @@ export const FiSrTrashSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -15341,7 +15271,6 @@ export const FiSrUnlockSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.077 512.077"
-      style="enable-background:new 0 0 512.077 512.077;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -15362,7 +15291,6 @@ export const FiSrUploadSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512.008 512.008"
-      style="enable-background:new 0 0 512.008 512.008;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -15425,7 +15353,6 @@ export const FiSrUserAddSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
@@ -15461,7 +15388,6 @@ export const FiSrUserSvg = (props: any) => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style="enable-background:new 0 0 512 512;"
       xmlSpace="preserve"
       fill="#000"
       {...props}
